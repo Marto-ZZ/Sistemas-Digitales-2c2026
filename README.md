@@ -22,13 +22,15 @@ _🌟 al repo messirve (así farmeo stats)_
 
 ## Sobre las prácticas
 
-En las carpetas de tipo `practica-i` lo mas importante es el archivo `practica-i-sol.pdf`, que es la práctica actualizada junto con ejercicios resueltos.
-Las guías pueden tener errores propios, no tomen mis respuestas como verdad absoluta, por eso es recomendable que si llegas a encontrar algún ejercicio donde yo la pifié mandes un pull request o escribas un issue explicándolo
+En la carpeta de `practicas` encontras dos sub-carpetas, `enunciados` con los archivos `practica-i.pdf` que son el enunciado completo de cada guia, 
+y la sub-carpeta `soluciones` que tienen archivos de tipo `practica-i-sol.pdf` con los ejercicios resueltos.
+Las guías pueden tener errores propios, no tomen mis respuestas como verdad absoluta, es recomendable que si llegas a encontrar algún ejercicio
+donde yo la pifié mandes un pull request o escribas un issue explicándolo.
 
 Cada pdf se puede volver un toque insoportable bajar 30+ páginas para ir a cada ejercicio, navega entre ejercicios con los botones dentro del índice y el "volver al índice" en los pie de página.
 Dejo aca los links directos a cada práctica resuelta:
 
-- [Práctica 1]()
+- Práctica 1: [Enunciado]() - [Solución]()
 
 ---
 
