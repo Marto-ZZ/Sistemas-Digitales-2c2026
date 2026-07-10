@@ -37,7 +37,10 @@ donde yo la pifié mandes un pull request o escribas un issue explicándolo.
 Cada pdf se puede volver un toque insoportable bajar 30+ páginas para ir a cada ejercicio, navega entre ejercicios con los botones dentro del índice y el "volver al índice" en los pie de página.
 Dejo aca los links directos a cada práctica resuelta:
 
-- Práctica 1: [Enunciado]() - [Solución]()
+- Práctica 1: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/practica-1.pdf) - [Solución]()
+- Práctica 2: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/practica-2.pdf) - [Solución]()
+- Práctica 3: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/practica-3.pdf) - [Solución]()
+- Práctica 4: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/practica-4.pdf) - [Solución]()
 
 ---
 
@@ -45,7 +48,12 @@ Dejo aca los links directos a cada práctica resuelta:
 
 En las carpetas de tipo `teorica-i` lo importante son los pdf de tipo `teo-i.pdf` con contenido teórico que acompaña a la materia.
 
-- [Teórica 1]()
+- [Teórica 1](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-1.pdf)
+- [Teórica 2](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-2.pdf)
+- [Teórica 3](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-3.pdf)
+- [Teórica 4 pt.1](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-4a.pdf)
+- [Teórica 4 pt.2](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-4b.pdf)
+- [Teórica 5](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-5.pdf)
 
 ---
 
