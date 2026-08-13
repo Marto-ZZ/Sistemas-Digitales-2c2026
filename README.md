@@ -16,7 +16,7 @@ Sistemas-Digitales-2c2026/
 ├── talleres/                    ← Carpeta con los talleres
 │   ├── taller_i/               ← Carpeta con el contenido de los talleres
 │   │   └── ejercicios/       ← Ejercicios resueltos
-│   └── enunciado.pdf/               ← enunciado del taller
+│   └── taller_i.pdf/               ← enunciado del taller
 └── teoricas/                     ← Carpeta de las clases teóricas
     └── teorica-i.pdf             ← Teórica número "i"
 
