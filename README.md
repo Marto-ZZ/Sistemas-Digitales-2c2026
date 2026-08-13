@@ -13,11 +13,10 @@
 
 ```
 Sistemas-Digitales-2c2026/
-├── practicas/                    ← Carpeta con las guías prácticas
-│   ├── enunciados/               ← Carpeta con el enunciado de las prácticas
-│   │   └── practica-i.pdf        ← Práctica número "i"
-│   └── soluciones/               ← Carpeta con la solución de las prácticas
-│       └── practica-i-sol.pdf    ← Solución de la práctica número "i"
+├── talleres/                    ← Carpeta con los talleres
+│   ├── taller_i/               ← Carpeta con el contenido de los talleres
+│   │   └── ejercicios/       ← Ejercicios resueltos
+│   └── enunciado.pdf/               ← enunciado del taller
 └── teoricas/                     ← Carpeta de las clases teóricas
     └── teorica-i.pdf             ← Teórica número "i"
 
@@ -26,23 +25,6 @@ Sistemas-Digitales-2c2026/
 ---
 
 _🌟 al repo messirve (así farmeo stats)_
-
-## Sobre las prácticas
-
-En la carpeta de `practicas` encontras dos sub-carpetas, `enunciados` con los archivos `practica-i.pdf` que son el enunciado completo de cada guia, 
-y la sub-carpeta `soluciones` que tienen archivos de tipo `practica-i-sol.pdf` con los ejercicios resueltos.
-Las guías pueden tener errores propios, no tomen mis respuestas como verdad absoluta, es recomendable que si llegas a encontrar algún ejercicio
-donde yo la pifié mandes un pull request o escribas un issue explicándolo.
-
-Cada pdf se puede volver un toque insoportable bajar 30+ páginas para ir a cada ejercicio, navega entre ejercicios con los botones dentro del índice y el "volver al índice" en los pie de página.
-Dejo aca los links directos a cada práctica resuelta:
-
-- Práctica 1: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/enunciados/practica-1.pdf) - [Solución]
-- Práctica 2: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/enunciados/practica-2.pdf) - [Solución]
-- Práctica 3: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/enunciados/practica-3.pdf) - [Solución]
-- Práctica 4: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/practicas/enunciados/practica-4.pdf) - [Solución]
-
----
 
 ## Sobre las teóricas
 
@@ -63,7 +45,7 @@ En la carpeta de `talleres` encontras dos sub-carpetas, `taller_i` con los archi
 Si llegas a encontrar algún ejercicio donde yo la pifié mandes un pull request o escribas un issue explicándolo.
 
 - Taller 0: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_0/Taller0.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_0/ejercicios)
-- 
+
 ---
 
 # Más en detalle sobre este repo
