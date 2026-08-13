@@ -14,12 +14,14 @@
 ```
 Sistemas-Digitales-2c2026/
 ├── talleres/                    ← Carpeta con los talleres
-│   ├── taller_i/               ← Carpeta con el contenido de los talleres
-│   │   └── ejercicios/       ← Ejercicios resueltos
-│   └── taller_i.pdf/               ← enunciado del taller
-└── teoricas/                     ← Carpeta de las clases teóricas
-    └── teorica-i.pdf             ← Teórica número "i"
-
+│   └── taller_i/                ← Carpeta con el contenido de un taller
+│       |── ejercicios/          ← Carpeta con los ejercicios resueltos
+│       └── Taller.pdf/          ← enunciado del taller
+│── teoricas/                    ← Carpeta de las clases teóricas
+│   └── teorica-i.pdf            ← Teórica número "i"
+└── material_viejo/              ← Carpeta con material antiguo
+        |── practicas/        
+        └── teoricas/
 ```
 
 ---
@@ -30,12 +32,25 @@ _🌟 al repo messirve (así farmeo stats)_
 
 En las carpetas de tipo `teorica-i` lo importante son los pdf de tipo `teo-i.pdf` con contenido teórico que acompaña a la materia.
 
+- [Teórica 0](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-0.pdf)
 - [Teórica 1](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-1.pdf)
-- [Teórica 2](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-2.pdf)
-- [Teórica 3](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-3.pdf)
-- [Teórica 4 pt.1](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-4a.pdf)
-- [Teórica 4 pt.2](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-4b.pdf)
-- [Teórica 5](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-5.pdf)
+
+---
+
+## Sobre los talleres
+
+En la carpeta de `talleres` encontras las sub-carpetas, `taller_i` con los archivos del enunciado y ejercicios resueltos de cada taller.
+Si llegas a encontrar algún ejercicio donde yo la pifié manda un pull request o escribi un issue explicándolo.
+
+- Taller 0: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_0/Taller0.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_0/ejercicios)
+
+---
+
+## Sobre el material viejo
+
+Bueno según comentaron los docentesde la materia, la dinámica a partir del 2c2026 va a ser un poco distinta a la de cuatrimestres anteriores, igualmente capaz encuentren algo que le sirva viendo material viejo, tenemos prácticas hechas dentro de la carpeta de `practicas` y diapositivas teóricas en la carpeta `teoricas` 
+
+- Material viejo: [Teóricas](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/material_viejo/teoricas) - [Prácticas](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/material_viejo/practicas)
 
 ---
 
