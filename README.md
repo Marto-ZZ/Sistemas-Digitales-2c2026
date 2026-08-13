@@ -54,6 +54,15 @@ Bueno según comentaron los docentesde la materia, la dinámica a partir del 2c2
 
 ---
 
+## Sobre los talleres
+
+En la carpeta de `talleres` encontras dos sub-carpetas, `taller_i` con los archivo resueltos de cada taller.
+Si llegas a encontrar algún ejercicio donde yo la pifié mandes un pull request o escribas un issue explicándolo.
+
+- Taller 0: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_0/Taller0.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_0/ejercicios)
+
+---
+
 # Más en detalle sobre este repo
 
 La idea es contribuir en comunidad para facilitarnos la cursada. Crear un repo con recursos de teoría, prácticas 
