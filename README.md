@@ -34,6 +34,7 @@ En las carpetas de tipo `teorica-i` lo importante son los pdf de tipo `teo-i.pdf
 
 - [Teórica 0](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-0.pdf)
 - [Teórica 1](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-1.pdf)
+- [Teórica 2](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/teoricas/teorica-2.pdf)
 
 ---
 
@@ -42,7 +43,8 @@ En las carpetas de tipo `teorica-i` lo importante son los pdf de tipo `teo-i.pdf
 En la carpeta de `talleres` encontras las sub-carpetas, `taller_i` con los archivos del enunciado y ejercicios resueltos de cada taller.
 Si llegas a encontrar algún ejercicio donde yo la pifié manda un pull request o escribi un issue explicándolo.
 
-- Taller 0: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_0/Taller0.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_0/ejercicios)
+- Taller 0: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_0/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_0/ejercicios)
+- Taller 1: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_1/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_1/ejercicios)
 
 ---
 
