@@ -7,5 +7,20 @@ module sumador_restador_4b (
 );
   logic [3:0] sum, diff;
   logic       add_cout, bout;
-  // instanciar sumador_4b y restador_4b; elegir con ctrl
+  restador_4b r1 (
+    .a(a),
+    .b(b),
+    .bin(0),
+    .diff(diff),
+    .bout(bout)
+  );
+  sumador_4b s1 (
+    .a(a),
+    .b(b),
+    .cin(0),
+    .sum(sum),
+    .cout(add_cout)
+  );
+  assign y = ctrl ? diff : sum;
+  assign cout = ctrl ? bout : add_cout;
 endmodule
