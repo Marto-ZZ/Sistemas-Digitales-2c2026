@@ -1,0 +1,20 @@
+{
+  "name": "sd-taller2",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "options": ["--platform=linux/amd64"]
+  },
+  "runArgs": [
+    "--platform=linux/amd64"
+  ],
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "twint.hdl-studio",
+        "mshr-h.veriloghdl",
+        "gxl.git-graph-3"
+      ]
+    }
+  }
+}
