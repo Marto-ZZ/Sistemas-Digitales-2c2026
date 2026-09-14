@@ -47,8 +47,8 @@ Si llegas a encontrar algún ejercicio donde yo la pifié manda un pull request 
 - Taller 0: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_0/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_0/ejercicios)
 - Taller 1: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_1/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_1/ejercicios)
 - Taller 2: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_2/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_2/ejercicios)
-- Taller 1: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_3/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_3/ejercicios)
-- Taller 1: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_4/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_4/ejercicios)
+- Taller 3: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_3/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_3/ejercicios)
+- Taller 4: [Enunciado](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/blob/main/talleres/taller_4/enunciado.pdf) - [Solución](https://github.com/Marto-ZZ/Sistemas-Digitales-2c2026/tree/main/talleres/taller_4/ejercicios)
 
 ---
 
